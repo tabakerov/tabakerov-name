@@ -1,0 +1,9 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "terminal"
+
+[params]
+    contentTypeName = "posts"
+    themeColor = "orange"
+    
