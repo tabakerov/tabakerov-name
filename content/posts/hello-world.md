@@ -16,3 +16,5 @@ draft = false
 Hey, how're Cloudflare Pages doing? I hope it looks great!
 
 By the way, where should I store static assets? Putting everything to git? Or keeping them on a separate cloud storage?
+
+Update!
